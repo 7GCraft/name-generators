@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Fictional Name Generator</title>
+  <title>CC Name Generator</title>
   <style>
     body {
       font-family: sans-serif;
@@ -24,9 +24,11 @@
   </style>
 </head>
 <body>
-  <h1>Fictional Name Generator</h1>
-  <button onclick="generateName()">Generate Name</button>
-  <div id="name">—</div>
+  <h1>CC Name Generator</h1>
+  <button onclick="generateNames('trachian', 'male')">Male Trachian Names</button>
+  <button onclick="generateNames('trachian', 'female')">Female Trachian Names</button>
+
+  <ul id="name-list"></ul>
 
   <script src="generator.js"></script>
 </body>
