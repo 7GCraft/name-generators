@@ -10,35 +10,58 @@
             font-family: sans-serif;
             padding: 2em;
             background: #f4f4f4;
+            margin: 0;
+        }
+
+        h1 {
             text-align: center;
+        }
+
+        .layout {
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            margin-top: 2em;
+        }
+
+        .sidebar {
+            display: flex;
+            flex-direction: column;
+            gap: 1em;
+            margin-right: 2em;
         }
 
         button {
             font-size: 1.2em;
             padding: 0.5em 1em;
-            margin-top: 1em;
+        }
+
+        .main-content {
+            flex: 1;
+            text-align: center;
         }
 
         #name-list {
             font-size: 2em;
             margin-top: 1em;
             color: #333;
-        }
-
-        ul {
             list-style-type: none;
             padding-left: 0;
-            margin-left: 0;
         }
     </style>
 </head>
 
 <body>
     <h1>CC Name Generator</h1>
-    <button onclick="generateNames('trachian', 'male')">Male Trachian Names</button>
-    <button onclick="generateNames('trachian', 'female')">Female Trachian Names</button>
-
-    <ul id="name-list"></ul>
+    <div class="layout">
+        <div class="sidebar">
+            <button onclick="generateNames('trachian', 'male')">Male Trachian Names</button>
+            <button onclick="generateNames('trachian', 'female')">Female Trachian Names</button>
+        </div>
+        <div class="main-content">
+            <ul id="name-list"></ul>
+        </div>
+    </div>
 
     <script src="generator.js"></script>
 </body>
