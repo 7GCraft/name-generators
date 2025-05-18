@@ -47,5 +47,31 @@
             "Ritvvīca",
             "Arprrīcha"
         ]
+    },
+    "xoteohl": {
+        "male": [
+            "Ahuoxohl",
+            "Milinitica",
+            "Eacahl",
+            "Xolin",
+            "Tacelel",
+            "Oamac",
+            "Xuocoxuo",
+            "Texin",
+            "Texicoehua",
+            "Coxamapan"
+        ],
+        "female": [
+            "Ixel",
+            "Tuolihli",
+            "Ciahuoxuoxihl",
+            "Xuoco",
+            "Coxacahl",
+            "Accatuohl",
+            "Eocotuohl",
+            "Maxata",
+            "Motuelehla",
+            "Toletecapilli"
+        ]
     }
 }
