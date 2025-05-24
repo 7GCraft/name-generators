@@ -73,5 +73,29 @@
             "Motuelehla",
             "Toletecapilli"
         ]
+    },
+    "selean": {
+        "male": [
+            "Petrich"
+        ]
+    },
+    "trinosian": {
+        "male": [
+            "Euzîn",
+            "Crîztîani",
+            "Cêrl",
+            "Êrêrd",
+            "Êrezt",
+            "Nîgûla",
+            "Zazûnî",
+            "Zuzt",
+            "Dzeronz",
+            "Pompûniu",
+            "Vodin",
+            "Iscirione"
+        ],
+        "female": [
+            "Zaena"
+        ]
     }
 }
