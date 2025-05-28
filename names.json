@@ -81,7 +81,6 @@
         "male": [
             "Petrich",
             "Merevith",
-            "Gênvur",
             "Rêthver",
             "Vilhel",
             "Egelvin",
@@ -89,7 +88,11 @@
             "Elrêt",
             "Farman",
             "Thêdver",
-            "Nîgûl"
+            "Nîgûl",
+            "Felgil"
+        ],
+        "female": [
+            "Gênvur"
         ]
     },
     "trinosian": {
