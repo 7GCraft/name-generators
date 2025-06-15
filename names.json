@@ -62,7 +62,8 @@
             "Coxamapan",
             "Micahlanetequihli",
             "Taxoahlaleni",
-            "Nexahualocuotuohl"
+            "Nexahualocuotuohl",
+            "Xicuoetenacahl"
         ],
         "female": [
             "Ixel",
@@ -120,6 +121,45 @@
         ],
         "female": [
             "Zaena"
+        ]
+    },
+    "prad": {
+        "male": [
+            "Arcos",
+            "Anchas",
+            "Jufys",
+            "Anois",
+            "Teomes",
+            "Vusants",
+            "Ampals",
+            "Natreas"
+        ],
+        "female": [
+            "Arcog",
+            "Anchag",
+            "Jufyg",
+            "Anoig",
+            "Teomeg",
+            "Vusant",
+            "Ampalg"
+        ]
+    },
+    "felgriftian": {
+        "male": [
+            "Ioen",
+            "Iog",
+            "Amonual",
+            "Osav",
+            "Esoc",
+            "Barnova",
+            "Ilon",
+            "Diog",
+            "Astevon",
+            "Modios",
+            "Fovion",
+            "Neolos",
+            "Xova",
+            "Mocsemelion"
         ]
     }
 }
