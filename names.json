@@ -1,5 +1,6 @@
 {
     "trachian": {
+        "type": "simple",
         "male": [
             "Vilip",
             "Raeczanter",
@@ -49,6 +50,7 @@
         ]
     },
     "xoteohl": {
+        "type": "simple",
         "male": [
             "Ahuoxohl",
             "Milinitica",
@@ -79,6 +81,7 @@
         ]
     },
     "selean": {
+        "type": "simple",
         "male": [
             "Petrich",
             "Merevith",
@@ -105,6 +108,7 @@
         ]
     },
     "trinosian": {
+        "type": "simple",
         "male": [
             "Euzîn",
             "Crîztîani",
@@ -124,6 +128,7 @@
         ]
     },
     "prad": {
+        "type": "simple",
         "male": [
             "Arcos",
             "Anchas",
@@ -145,6 +150,7 @@
         ]
     },
     "felgriftian": {
+        "type": "simple",
         "male": [
             "Ioen",
             "Iog",
@@ -161,5 +167,11 @@
             "Xova",
             "Mocsemelion"
         ]
+    },
+    "luonkuenese": {
+        "type": "composite",
+        "surname": ["Dwe (屠)", "Xwé (懷)", "Xxwet (闕)"],
+        "male": ["Bóxó (抱豪)", "Sidó (子道)", "Wen'ek (永一)"],
+        "female": []
     }
 }
