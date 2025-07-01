@@ -22,7 +22,7 @@ function generateNames(language, gender) {
   const selectedNames = [];
 
   if (langData.type === "composite") {
-    const surnames = langData[surname];
+    const surnames = langData["surname"];
     const givenNames = langData[gender];
 
     if (!surnames || !givenNames) {
