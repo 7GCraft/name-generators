@@ -54,19 +54,8 @@
 <body>
     <h1>CC Name Generator</h1>
     <div class="layout">
-        <div class="sidebar">
-            <button onclick="generateNames('trachian', 'male')">Male Trachian Names</button>
-            <button onclick="generateNames('trachian', 'female')">Female Trachian Names</button>
-            <button onclick="generateNames('xoteohl', 'male')">Male Xoteohl Names</button>
-            <button onclick="generateNames('xoteohl', 'female')">Female Xoteohl Names</button>
-            <button onclick="generateNames('selean', 'male')">Male Selean Names</button>
-            <button onclick="generateNames('selean', 'female')">Female Selean Names</button>
-            <button onclick="generateNames('trinosian', 'male')">Male Trinosian Names</button>
-            <button onclick="generateNames('trinosian', 'female')">Female Trinosian Names</button>
-            <button onclick="generateNames('prad', 'male')">Male Prad Names</button>
-            <button onclick="generateNames('prad', 'female')">Female Prad Names</button>
-            <button onclick="generateNames('felgriftian', 'male')">Male Felgriftian Names</button>
-            <button onclick="generateNames('luonkuenese', 'male')">Male Luonkuenese Names</button>
+        <div class="sidebar" id="button-container">
+
         </div>
         <div class="main-content">
             <ul id="name-list"></ul>
@@ -74,6 +63,50 @@
     </div>
 
     <script src="generator.js"></script>
+    <script>
+        let nameData = {};
+
+        fetch('names.json')
+            .then(response => response.json())
+            .then(data => {
+                nameData = data;
+                createButtonsFromData(nameData);
+            })
+            .catch(error => {
+                console.error('Failed to load names.json:', error);
+            });
+
+        function createButtonsFromData(data) {
+            const container = document.getElementById('button-container');
+
+            for (const [language, config] of Object.entries(data)) {
+                const capitalisedLang = capitalise(language);
+
+                const hasMale = config.male && config.male.length > 0;
+                const hasFemale = config.female && config.female.length > 0;
+
+                if (config.type === "simple" || config.type === "composite") {
+                    if (hasMale) {
+                        const btn = document.createElement('button');
+                        btn.textContent = `Male ${capitalisedLang} Names`;
+                        btn.onclick = () => generateNames(language, 'male');
+                        container.appendChild(btn);
+                    }
+                    if (hasFemale) {
+                        const btn = document.createElement('button');
+                        btn.textContent = `Female ${capitalisedLang} Names`;
+                        btn.onclick = () => generateNames(language, 'female');
+                        container.appendChild(btn);
+                    }
+                }
+            }
+        }
+
+        function capitalise(str) {
+            return str.charAt(0).toUpperCase() + str.slice(1);
+        }
+    </script>
+
 </body>
 
 </html>
