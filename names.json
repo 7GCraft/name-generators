@@ -33,7 +33,17 @@
             "Uottrāīchi",
             "Cirvvīn",
             "Ritvvīc",
-            "Arprrīchi"
+            "Arprrīchi",
+            "Manfrīti",
+            "Atan",
+            "Jonaz",
+            "Paner",
+            "Zinzon",
+            "Zeburon",
+            "Erīaz",
+            "Jotān",
+            "Aznuēr",
+            "Ruvan"
         ],
         "female": [
             "Āocozta",
@@ -46,7 +56,8 @@
             "Uottrāīcha",
             "Cirvvīna",
             "Ritvvīca",
-            "Arprrīcha"
+            "Arprrīcha",
+            "Naeni"
         ]
     },
     "xoteohl": {
@@ -65,7 +76,9 @@
             "Micahlanetequihli",
             "Taxoahlaleni",
             "Nexahualocuotuohl",
-            "Xicuoetenacahl"
+            "Xicuoetenacahl",
+            "Xiocoahl",
+            "Texoxemoc"
         ],
         "female": [
             "Ixel",
@@ -77,7 +90,10 @@
             "Eocotuohl",
             "Maxata",
             "Motuelehla",
-            "Toletecapilli"
+            "Toletecapilli",
+            "Ihuacahl",
+            "Ihuihl",
+            "Tepin"
         ]
     },
     "selean": {
@@ -137,7 +153,23 @@
             "Teomes",
             "Vusants",
             "Ampals",
-            "Natreas"
+            "Natreas",
+            "Atan",
+            "Atans",
+            "Jonas",
+            "Paner",
+            "Paners",
+            "Zinzons",
+            "Zinzon",
+            "Zebulon",
+            "Zebulons",
+            "Elias",
+            "Jotan",
+            "Jotans",
+            "Aznuer",
+            "Aznuers",
+            "Luvan",
+            "Luvans"
         ],
         "female": [
             "Arcog",
@@ -146,7 +178,9 @@
             "Anoig",
             "Teomeg",
             "Vusant",
-            "Ampalg"
+            "Ampalg",
+            "Naeni",
+            "Naenig"
         ]
     },
     "felgriftian": {
@@ -165,13 +199,40 @@
             "Fovion",
             "Neolos",
             "Xova",
-            "Mocsemelion"
+            "Mocsemelion",
+            "Ovrom",
+            "Ion",
+            "Pol",
+            "Esoios",
+            "Morise",
+            "Olagsonra",
+            "Gellalm",
+            "Rofoal",
+            "Rolon",
+            "Llaonor"
         ]
     },
     "luonkuenese": {
         "type": "composite",
-        "surname": ["Dwe (屠)", "Xwé (懷)", "Xxwet (闕)"],
-        "male": ["Bóxó (抱豪)", "Sidó (子道)", "Wen'ek (永一)"],
+        "surname": [
+            "Dwe (屠)",
+            "Xwé (懷)",
+            "Xxwet (闕)",
+            "Kkwok (國)",
+            "Kkun (公)",
+            "Súkk (宿)",
+            "Kkwan (關)",
+            "Dén (陳)"
+        ],
+        "male": [
+            "Bóxó (抱豪)",
+            "Sidó (子道)",
+            "Wen'ek (永一)",
+            "Wezé (睿才)",
+            "Ékxakk (燁赫)",
+            "Xunshé (鴻彩)",
+            "Kweho (飛虎)"
+        ],
         "female": []
     }
 }
