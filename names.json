@@ -2,16 +2,16 @@
     "trachian": {
         "type": "simple",
         "male": [
-            "Vilip",
+            "Vilip [C]",
             "Raeczanter",
             "Juliuz",
             "Līvhart",
             "Hellīvīlacht",
-            "Natrēaz",
-            "Cideon",
+            "Natrēaz [C]",
+            "Cideon [C]",
             "Vuttūvert",
             "Ingcīnālu",
-            "Criztof",
+            "Criztof [C]",
             "Attālar",
             "Ingccurf",
             "Liuthhīli",
@@ -21,29 +21,33 @@
             "Cizzrahīli",
             "Cangvvurf",
             "Hillīvīc",
-            "Johnaiz",
-            "Natēoz",
-            "Narcoz",
-            "Lucaz",
-            "Jacūvoz",
-            "Petroz",
-            "Paloz",
-            "Tunaz",
-            "Ztefnaoz",
+            "Johnaiz [C]",
+            "Natēoz [C]",
+            "Narcoz [C]",
+            "Lucaz [C]",
+            "Jacūvoz [C]",
+            "Petroz [C]",
+            "Paloz [C]",
+            "Tunaz [C]",
+            "Ztefnaoz [C]",
             "Uottrāīchi",
             "Cirvvīn",
             "Ritvvīc",
             "Arprrīchi",
             "Manfrīti",
-            "Atan",
-            "Jonaz",
-            "Paner",
-            "Zinzon",
-            "Zeburon",
-            "Erīaz",
-            "Jotān",
-            "Aznuēr",
-            "Ruvan"
+            "Atan [C]",
+            "Jonaz [C]",
+            "Paner [C]",
+            "Zinzon [C]",
+            "Zeburon [C]",
+            "Erīaz [C]",
+            "Jotān [C]",
+            "Aznuēr [C]",
+            "Ruvan [C]",
+            "Evvirhart",
+            "Urtvvīn",
+            "Enanuēr [C]",
+            "Apūr [C]"
         ],
         "female": [
             "Āocozta",
@@ -93,7 +97,8 @@
             "Toletecapilli",
             "Ihuacahl",
             "Ihuihl",
-            "Tepin"
+            "Tepin",
+            "Xicemecoahl"
         ]
     },
     "selean": {
@@ -210,6 +215,9 @@
             "Rofoal",
             "Rolon",
             "Llaonor"
+        ],
+        "female": [
+            "Ev [C]"
         ]
     },
     "luonkuenese": {
@@ -234,5 +242,23 @@
             "Kweho (飛虎)"
         ],
         "female": []
+    },
+    "selian": {
+        "type": "simple",
+        "male": [
+            "Godrîh",
+            "Siyerîh",
+            "Âdgar",
+            "Sagô [C]",
+            "Tîmodî [C]",
+            "Âdrêth",
+            "Virfer",
+            "Elrîch"
+        ],
+        "female": [
+            "Ev [C]",
+            "Haunil",
+            "Lêvlêth"
+        ]
     }
 }
