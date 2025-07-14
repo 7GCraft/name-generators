@@ -47,7 +47,17 @@
             "Evvirhart",
             "Urtvvīn",
             "Enanuēr [C]",
-            "Apūr [C]"
+            "Apūr [C]",
+            "Eri",
+            "Cavriēr [C]",
+            "Tonaz [C]",
+            "Zarono [C]",
+            "Trovinūz [C]",
+            "Ranech [C]",
+            "Acrep [C]",
+            "Izāc [C]",
+            "Hetzecīa [C]",
+            "Ananīaz [C]"
         ],
         "female": [
             "Āocozta",
@@ -61,7 +71,13 @@
             "Cirvvīna",
             "Ritvvīca",
             "Arprrīcha",
-            "Naeni"
+            "Naeni",
+            "Narta [C]",
+            "Erica [C]",
+            "Revecca [C]",
+            "Herena [C]",
+            "Zara [C]",
+            "Prizzira [C]"
         ]
     },
     "xoteohl": {
@@ -82,7 +98,22 @@
             "Nexahualocuotuohl",
             "Xicuoetenacahl",
             "Xiocoahl",
-            "Texoxemoc"
+            "Texoxemoc",
+            "Cuehlaxihli",
+            "Axatacahl",
+            "Etalapalli",
+            "Ixataca",
+            "Mecahl",
+            "Mahlal",
+            "Mixocoahl",
+            "Xipacotonal",
+            "Huixihl",
+            "Oihli",
+            "Noxahuahl",
+            "Mahlilihuihl",
+            "Axacaloxoxicahl",
+            "Xihuihl",
+            "Oxolohl"
         ],
         "female": [
             "Ixel",
@@ -98,7 +129,19 @@
             "Ihuacahl",
             "Ihuihl",
             "Tepin",
-            "Xicemecoahl"
+            "Xicemecoahl",
+            "Tolixin",
+            "Necahual",
+            "Cengetehua",
+            "Xalixihuihl",
+            "Xoxihl",
+            "Cexal",
+            "Noxixicoxihli",
+            "Taxonolli",
+            "Fapan",
+            "Ilihuihl",
+            "Cuall",
+            "Eloxoxihl"
         ]
     },
     "selean": {
@@ -142,7 +185,8 @@
             "Dzeronz",
             "Pompûniu",
             "Vodin",
-            "Iscirione"
+            "Iscirione",
+            "Îragund"
         ],
         "female": [
             "Zaena"
@@ -173,8 +217,30 @@
             "Jotans",
             "Aznuer",
             "Aznuers",
-            "Luvan",
-            "Luvans"
+            "Lufan [C]",
+            "Lufans [C]",
+            "Eli [C]",
+            "Elis [C]",
+            "Cafrier [C]",
+            "Cafriers [C]",
+            "Varthil",
+            "Varthils",
+            "Tonas [C]",
+            "Zalono [C]",
+            "Zalonos [C]",
+            "Etrai [C]",
+            "Etrais [C]",
+            "Trofinus [C]",
+            "Ananias [C]",
+            "Lanech [C]",
+            "Lanes [C]",
+            "Acrep [C]",
+            "Acreps [C]",
+            "Izac [C]",
+            "Izacs [C]",
+            "Hetzecia [C]",
+            "Hetzecias [C]",
+            "Ruths"
         ],
         "female": [
             "Arcog",
@@ -185,7 +251,18 @@
             "Vusant",
             "Ampalg",
             "Naeni",
-            "Naenig"
+            "Naenig",
+            "Narta [C]",
+            "Nartag [C]",
+            "Cafrierg [C]",
+            "Lefeca [C]",
+            "Lefecag [C]",
+            "Helena [C]",
+            "Helenag [C]",
+            "Zala [C]",
+            "Zalag [C]",
+            "Prizila [C]",
+            "Prizilag [C]"
         ]
     },
     "felgriftian": {
