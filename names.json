@@ -77,7 +77,8 @@
             "Revecca [C]",
             "Herena [C]",
             "Zara [C]",
-            "Prizzira [C]"
+            "Prizzira [C]",
+            "Zeziria"
         ]
     },
     "xoteohl": {
@@ -113,7 +114,8 @@
             "Mahlilihuihl",
             "Axacaloxoxicahl",
             "Xihuihl",
-            "Oxolohl"
+            "Oxolohl",
+            "Ahuilixocoxin"
         ],
         "female": [
             "Ixel",
@@ -164,7 +166,9 @@
             "Ermenrêdh",
             "Vulhadh",
             "Cêlvar",
-            "Êrîh"
+            "Êrîh",
+            "Letser",
+            "Verchigh"
         ],
         "female": [
             "Gênvur",
@@ -186,7 +190,8 @@
             "Pompûniu",
             "Vodin",
             "Iscirione",
-            "Îragund"
+            "Îragund",
+            "Lettser"
         ],
         "female": [
             "Zaena"
@@ -240,7 +245,13 @@
             "Izacs [C]",
             "Hetzecia [C]",
             "Hetzecias [C]",
-            "Ruths"
+            "Ruths",
+            "Greas",
+            "Ebus",
+            "Pinas",
+            "Celpis",
+            "Ons",
+            "Curis"
         ],
         "female": [
             "Arcog",
@@ -336,6 +347,26 @@
             "Ev [C]",
             "Haunil",
             "Lêvlêth"
+        ]
+    },
+    "toyan": {
+        "type": "simple",
+        "male": [
+            "Asuno",
+            "Sedoro",
+            "Futano",
+            "Katenu",
+            "Kodari",
+            "Deraso",
+            "Yaturo",
+            "Fosiyo",
+            "Nodoro",
+            "Kureto",
+            "Tefano",
+            "Kaliko",
+            "Sekiso",
+            "Kidaro",
+            "Trogido"
         ]
     }
 }
