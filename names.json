@@ -146,7 +146,7 @@
             "Eloxoxihl"
         ]
     },
-    "selean": {
+    "sêlian": {
         "type": "simple",
         "male": [
             "Petrich",
@@ -168,14 +168,40 @@
             "Cêlvar",
             "Êrîh",
             "Letser",
-            "Verchigh"
+            "Verchigh",
+            "Stîan [C]",
+            "Eusîn [C]",
+            "Yûnedas [C]",
+            "Tûvya [C]",
+            "Micyî [C]",
+            "Selvîn [C]",
+            "Andrîsa [C]",
+            "Mîcîlî [C]",
+            "Siyeghâr",
+            "Indhul",
+            "Îsav [C]",
+            "Nîv [C]",
+            "Vervar",
+            "Esmêlî [C]",
+            "Edle [C]",
+            "Godrîh",
+            "Siyerîh",
+            "Âdgar",
+            "Sagô [C]",
+            "Tîmodî [C]",
+            "Âdrêth",
+            "Virfer",
+            "Elrîch"
         ],
         "female": [
             "Gênvur",
-            "Cynevur"
+            "Cynevur",
+            "Ev [C]",
+            "Haunil",
+            "Lêvlêth"
         ]
     },
-    "trinosian": {
+    "trînosian": {
         "type": "simple",
         "male": [
             "Euzîn",
@@ -191,7 +217,19 @@
             "Vodin",
             "Iscirione",
             "Îragund",
-            "Lettser"
+            "Lettser",
+            "Ztîan [C]",
+            "Îûnedaz [C]",
+            "Tûbia [C]",
+            "Miciî [C]",
+            "Zelvîn [C]",
+            "Andrîsa [C]",
+            "Mîgîlî [C]",
+            "Zen [C]",
+            "Îzav [C]",
+            "Nîv [C]",
+            "Ezmêlî [C]",
+            "Edlae [C]"
         ],
         "female": [
             "Zaena"
@@ -251,7 +289,17 @@
             "Pinas",
             "Celpis",
             "Ons",
-            "Curis"
+            "Curis",
+            "Searus",
+            "Homos",
+            "Votgos",
+            "Ciars",
+            "Guars",
+            "Leos",
+            "Phans",
+            "Nonis",
+            "Vines",
+            "Cocses"
         ],
         "female": [
             "Arcog",
@@ -273,7 +321,17 @@
             "Zala [C]",
             "Zalag [C]",
             "Prizila [C]",
-            "Prizilag [C]"
+            "Prizilag [C]",
+            "Searug",
+            "Homog",
+            "Votgog",
+            "Ciarg",
+            "Guarg",
+            "Leog",
+            "Phang",
+            "Nonig",
+            "Vineg",
+            "Cocseg"
         ]
     },
     "felgriftian": {
@@ -308,7 +366,7 @@
             "Ev [C]"
         ]
     },
-    "luonkuenese": {
+    "llonpenese": {
         "type": "composite",
         "surname": [
             "Dwe (屠)",
@@ -331,24 +389,6 @@
         ],
         "female": []
     },
-    "selian": {
-        "type": "simple",
-        "male": [
-            "Godrîh",
-            "Siyerîh",
-            "Âdgar",
-            "Sagô [C]",
-            "Tîmodî [C]",
-            "Âdrêth",
-            "Virfer",
-            "Elrîch"
-        ],
-        "female": [
-            "Ev [C]",
-            "Haunil",
-            "Lêvlêth"
-        ]
-    },
     "toyan": {
         "type": "simple",
         "male": [
@@ -367,6 +407,26 @@
             "Sekiso",
             "Kidaro",
             "Trogido"
+        ]
+    },
+    "yamamorian": {
+        "type": "composite",
+        "surname": [
+        ],
+        "male": [
+            "Din [C]"
+        ]
+    },
+    "qasimian": {
+        "type": "simple",
+        "male": [
+            "Ṣusayph"
+        ]
+    },
+    "trebailian": {
+        "type": "simple",
+        "male": [
+            "Necsin"
         ]
     }
 }
