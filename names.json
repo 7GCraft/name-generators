@@ -57,7 +57,11 @@
             "Acrep [C]",
             "Izāc [C]",
             "Hetzecīa [C]",
-            "Ananīaz [C]"
+            "Ananīaz [C]",
+            "Zeteciaz [C]",
+            "Atfit [C]",
+            "Nichāer [C]",
+            "Jeho [C]"
         ],
         "female": [
             "Āocozta",
@@ -299,7 +303,25 @@
             "Phans",
             "Nonis",
             "Vines",
-            "Cocses"
+            "Cocses",
+            "Cheos",
+            "Chilnis",
+            "Ans",
+            "Zecsphins",
+            "Ricrids",
+            "Baigus",
+            "Ars",
+            "Cruncos",
+            "Rids",
+            "Lunis",
+            "Zetecias",
+            "Atfit",
+            "Atfits",
+            "Nihaer",
+            "Nihaers",
+            "Inins",
+            "Jeho",
+            "Jehos"
         ],
         "female": [
             "Arcog",
@@ -331,7 +353,20 @@
             "Phang",
             "Nonig",
             "Vineg",
-            "Cocseg"
+            "Cocseg",
+            "Cheog",
+            "Chilnig",
+            "Ang",
+            "Zecsphing",
+            "Ricrid",
+            "Baigug",
+            "Arg",
+            "Cruncog",
+            "Rid",
+            "Lunig",
+            "Zeteciag",
+            "Ining",
+            "Jehog"
         ]
     },
     "felgriftian": {
@@ -360,7 +395,8 @@
             "Gellalm",
             "Rofoal",
             "Rolon",
-            "Llaonor"
+            "Llaonor",
+            "Botis"
         ],
         "female": [
             "Ev [C]"
@@ -420,13 +456,42 @@
     "qasimian": {
         "type": "simple",
         "male": [
-            "Ṣusayph"
+            "Ṣusayph",
+            "Lium [C]",
+            "Tovuya [C]"
         ]
     },
     "trebailian": {
         "type": "simple",
         "male": [
-            "Necsin"
+            "Necsin",
+            "Tsenedei [C]",
+            "Andre'en",
+            "Enri"
+        ]
+    },
+    "tayapatan": {
+        "type": "simple",
+        "male": [
+            "Daya",
+            "Tahyana",
+            "Galudiya",
+            "Prabava"
+        ]
+    },
+    "dendlovian": {
+        "type": "simple",
+        "male": [
+            "Lion [C]",
+            "Esaäk [C]",
+            "Viktoru",
+            "Toveya [C]"
+        ]
+    },
+    "gupran": {
+        "type": "simple",
+        "male": [
+            "Kuron"
         ]
     }
 }
