@@ -406,24 +406,32 @@
         "type": "composite",
         "surname": [
             "Dwe (屠)",
-            "Xwé (懷)",
-            "Xxwet (闕)",
-            "Kkwok (國)",
-            "Kkun (公)",
-            "Súkk (宿)",
-            "Kkwan (關)",
-            "Dén (陳)"
+            "Khwé (懷)",
+            "Pwet (闕)",
+            "Pwok (國)",
+            "Pun (公)",
+            "Súp (宿)",
+            "Pwan (關)",
+            "Dén (陳)",
+            "Sén (辛)",
+            "Lĩ (林)",
+            "È (姚)"
         ],
         "male": [
-            "Bóxó (抱豪)",
+            "Bókhó (抱豪)",
             "Sidó (子道)",
-            "Wen'ek (永一)",
+            "Wen’ek (永一)",
             "Wezé (睿才)",
-            "Ékxakk (燁赫)",
-            "Xunshé (鴻彩)",
-            "Kweho (飛虎)"
+            "Ékkhap (燁赫)",
+            "Khunshé (鴻彩)",
+            "Kwekho (飛虎)",
+            "Wesang (衛生)",
+            "Ónpcwi (樂水)",
+            "Péjek (介石)"
         ],
-        "female": []
+        "female": [
+            "Zékwe (才慧)"
+        ]
     },
     "toyan": {
         "type": "simple",
@@ -450,7 +458,8 @@
         "surname": [
         ],
         "male": [
-            "Din [C]"
+            "Din [C]",
+            "Kiyanaga (清長)"
         ]
     },
     "qasimian": {
