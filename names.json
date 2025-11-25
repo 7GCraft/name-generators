@@ -396,7 +396,8 @@
             "Rofoal",
             "Rolon",
             "Llaonor",
-            "Botis"
+            "Botis",
+            "Sasor"
         ],
         "female": [
             "Ev [C]"
@@ -459,7 +460,8 @@
         ],
         "male": [
             "Din [C]",
-            "Kiyanaga (清長)"
+            "Kiyanaga (清長)",
+            "Johirau (吉郎)"
         ]
     },
     "qasimian": {
@@ -503,4 +505,5 @@
             "Kuron"
         ]
     }
+
 }
