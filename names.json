@@ -61,7 +61,11 @@
             "Zeteciaz [C]",
             "Atfit [C]",
             "Nichāer [C]",
-            "Jeho [C]"
+            "Jeho [C]",
+            "Johaniz [C]",
+            "Hozēa [C]",
+            "Jozef [C]",
+            "Varac [C]"
         ],
         "female": [
             "Āocozta",
@@ -195,14 +199,36 @@
             "Tîmodî [C]",
             "Âdrêth",
             "Virfer",
-            "Elrîch"
+            "Elrîch",
+            "Vernîch",
+            "Madî [C]",
+            "Mêr [C]",
+            "Luch [C]",
+            "Sen [C]",
+            "Per [C]",
+            "Sacûm [C]",
+            "Suep [C]",
+            "Tûmîs [C]",
+            "Vîlîp [C]",
+            "Nanî [C]"
         ],
         "female": [
             "Gênvur",
             "Cynevur",
             "Ev [C]",
             "Haunil",
-            "Lêvlêth"
+            "Lêvlêth",
+            "Arcongoth",
+            "Mârî [C]",
+            "Rud [C]",
+            "Stîr [C]",
+            "Sîr [C]",
+            "Lîaed [C]",
+            "Mêrta [C]",
+            "Deûr [C]",
+            "En [C]",
+            "Îl [C]",
+            "Noem [C]"
         ]
     },
     "trînosian": {
@@ -233,10 +259,30 @@
             "Îzav [C]",
             "Nîv [C]",
             "Ezmêlî [C]",
-            "Edlae [C]"
+            "Edlae [C]",
+            "Madîa [C]",
+            "Mêrc [C]",
+            "Ludza [C]",
+            "Petr [C]",
+            "Pîûl [C]",
+            "Zagûm [C]",
+            "Zueb [C]",
+            "Tûmîz [C]",
+            "Vîlîb [C]",
+            "Nanîa [C]"
         ],
         "female": [
-            "Zaena"
+            "Zaena",
+            "Mârîa [C]",
+            "Rud [C]",
+            "Stîra [C]",
+            "Zîra [C]",
+            "Lîaeda [C]",
+            "Mêrta [C]",
+            "Deûra [C]",
+            "Ena [C]",
+            "Îl [C]",
+            "Noem [C]"
         ]
     },
     "prad": {
@@ -321,7 +367,18 @@
             "Nihaers",
             "Inins",
             "Jeho",
-            "Jehos"
+            "Jehos",
+            "Cus",
+            "Chians",
+            "His",
+            "Johanis [C]",
+            "Johanas [C]",
+            "Hozea [C]",
+            "Hozeas [C]",
+            "Jozef [C]",
+            "Jozefs [C]",
+            "Farac [C]",
+            "Faracs [C]"
         ],
         "female": [
             "Arcog",
@@ -366,7 +423,15 @@
             "Lunig",
             "Zeteciag",
             "Ining",
-            "Jehog"
+            "Jehog",
+            "Cug",
+            "Chiang",
+            "Hig",
+            "Johanig [C]",
+            "Johanag [C]",
+            "Hozeag [C]",
+            "Jozefg [C]",
+            "Farag [C]"
         ]
     },
     "felgriftian": {
@@ -451,17 +516,76 @@
             "Kaliko",
             "Sekiso",
             "Kidaro",
-            "Trogido"
+            "Trogido",
+            "Kruyoso",
+            "Futesro",
+            "Adraso",
+            "Feloni",
+            "Kotiyo",
+            "Kateto",
+            "Kuroto",
+            "Karodo",
+            "Fesino",
+            "Etosi",
+            "Yatinu",
+            "Kodetu",
+            "Didino",
+            "Nokuyo",
+            "Tarao",
+            "Kasai",
+            "Fedeni",
+            "Kadoro",
+            "Loniro",
+            "Soteni",
+            "Faruso",
+            "Teniro",
+            "Nasilo",
+            "Korani",
+            "Feloro",
+            "Dareti",
+            "Nokira",
+            "Yasuto"
         ]
     },
-    "yamamorian": {
-        "type": "composite",
-        "surname": [
-        ],
+    "yumumorian": {
+        "type": "simple",
         "male": [
             "Din [C]",
             "Kiyanaga (清長)",
-            "Johirau (吉郎)"
+            "Johirau (吉郎)",
+            "Nobuakira (誠著)",
+            "Nania [C]",
+            "Karahuri (堅扶)",
+            "Narikadu (就一)",
+            "Manikagi (統景)",
+            "Johinobu (由信)",
+            "Tamoraka (朝孝)",
+            "Tuguyohi (継好)",
+            "Tohitani (利常)",
+            "Ipiharu (家治)",
+            "Tunirugu (胤次)",
+            "Topanaka (遠央)",
+            "Tamooki (朝興)",
+            "Hihunari (尚成)",
+            "Mahunaga (政長)",
+            "Higunaga (重長)",
+            "Nigura [C]",
+            "Idurai [C]",
+            "Idafu [C]",
+            "Reteru [C]",
+            "Samodi [C]",
+            "Dago [C]",
+            "Anudurira [C]",
+            "Idumiri [C]",
+            "Dagumu [C]"
+        ],
+        "female": [
+            "Hayaka (爽)",
+            "Ayu (鮎)",
+            "Aniko (禾子)",
+            "Ihago (砂)",
+            "Ikuko (生子)",
+            "Kunari (楽)"
         ]
     },
     "qasimian": {
@@ -487,7 +611,17 @@
             "Daya",
             "Tahyana",
             "Galudiya",
-            "Prabava"
+            "Prabava",
+            "Abimanu",
+            "Tahya",
+            "Budiana",
+            "Datmika",
+            "Adidaya",
+            "Baskala",
+            "Esak [C]",
+            "Rion [C]",
+            "Toveya [C]",
+            "Asir [C]"
         ]
     },
     "dendlovian": {
@@ -507,3 +641,4 @@
     }
 
 }
+
