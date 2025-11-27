@@ -638,7 +638,23 @@
         "male": [
             "Kuron"
         ]
+    },
+    "northern vonian": {
+        "type": "simple",
+        "male": [
+            "Daém",
+            "Phuyeái",
+            "Zíczisu",
+            "Máiu",
+            "Yúiu",
+            "Púbyiu",
+            "Víu",
+            "Nuériu",
+            "Gáiu",
+            "Áiu"
+        ]
     }
 
 }
+
 
