@@ -65,7 +65,10 @@
             "Johaniz [C]",
             "Hozēa [C]",
             "Jozef [C]",
-            "Varac [C]"
+            "Varac [C]",
+            "Tatan [C]",
+            "Patiaz [C]",
+            "Avrahan [C]"
         ],
         "female": [
             "Āocozta",
@@ -210,7 +213,9 @@
             "Suep [C]",
             "Tûmîs [C]",
             "Vîlîp [C]",
-            "Nanî [C]"
+            "Nanî [C]",
+            "Echver",
+            "Elfâr"
         ],
         "female": [
             "Gênvur",
@@ -269,7 +274,9 @@
             "Zueb [C]",
             "Tûmîz [C]",
             "Vîlîb [C]",
-            "Nanîa [C]"
+            "Nanîa [C]",
+            "Zû [C]",
+            "Zetic"
         ],
         "female": [
             "Zaena",
@@ -378,7 +385,10 @@
             "Jozef [C]",
             "Jozefs [C]",
             "Farac [C]",
-            "Faracs [C]"
+            "Faracs [C]",
+            "Patias [C]",
+            "Afrahan [C]",
+            "Afrahans [C]"
         ],
         "female": [
             "Arcog",
@@ -431,7 +441,8 @@
             "Johanag [C]",
             "Hozeag [C]",
             "Jozefg [C]",
-            "Farag [C]"
+            "Farag [C]",
+            "Patiag [C]"
         ]
     },
     "felgriftian": {
@@ -462,7 +473,9 @@
             "Rolon",
             "Llaonor",
             "Botis",
-            "Sasor"
+            "Sasor",
+            "Ti",
+            "Morcos"
         ],
         "female": [
             "Ev [C]"
@@ -593,7 +606,10 @@
         "male": [
             "Ṣusayph",
             "Lium [C]",
-            "Tovuya [C]"
+            "Tovuya [C]",
+            "Saulu [C]",
+            "Ad [C]",
+            "Malaḵīya [C]"
         ]
     },
     "trebailian": {
@@ -630,7 +646,10 @@
             "Lion [C]",
             "Esaäk [C]",
             "Viktoru",
-            "Toveya [C]"
+            "Toveya [C]",
+            "Kornichizh [C]",
+            "Saulu [C]",
+            "Malakheya [C]"
         ]
     },
     "gupran": {
@@ -653,8 +672,14 @@
             "Gáiu",
             "Áiu"
         ]
+    },
+    "vatanian": {
+        "type": "simple",
+        "male": [
+            "​​Vusḵis"
+        ]
     }
-
 }
+
 
 
