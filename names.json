@@ -233,7 +233,11 @@
             "Deûr [C]",
             "En [C]",
             "Îl [C]",
-            "Noem [C]"
+            "Noem [C]",
+            "Prescîd [C]",
+            "Dêôr [C]",
+            "Vîfrûn",
+            "Sêvur"
         ]
     },
     "trînosian": {
@@ -289,7 +293,9 @@
             "Deûra [C]",
             "Ena [C]",
             "Îl [C]",
-            "Noem [C]"
+            "Noem [C]",
+            "Prescîdz [C]",
+            "Dêôr [C]"
         ]
     },
     "prad": {
@@ -475,10 +481,14 @@
             "Botis",
             "Sasor",
             "Ti",
-            "Morcos"
+            "Morcos",
+            "Crestion",
+            "Ovons"
         ],
         "female": [
-            "Ev [C]"
+            "Ev",
+            "Odalin",
+            "Todon"
         ]
     },
     "llonpenese": {
@@ -677,6 +687,17 @@
         "type": "simple",
         "male": [
             "​​Vusḵis"
+        ]
+    },
+    "zrerian": {
+        "type": "simple",
+        "male": [
+            "Krestiono [C]",
+            "Ovonso [C]"
+        ],
+        "female": [
+            "Odaline [C]",
+            "Todone [C]"
         ]
     }
 }
