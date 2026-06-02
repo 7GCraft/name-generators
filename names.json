@@ -68,7 +68,14 @@
             "Varac [C]",
             "Tatan [C]",
             "Patiaz [C]",
-            "Avrahan [C]"
+            "Avrahan [C]",
+            "Nichaēr [C]",
+            "Ztevan [C]",
+            "Attēuz [C]",
+            "Attarpercht",
+            "Attarhart",
+            "Tietrīch",
+            "Vinnīfrit"
         ],
         "female": [
             "Āocozta",
@@ -89,7 +96,8 @@
             "Herena [C]",
             "Zara [C]",
             "Prizzira [C]",
-            "Zeziria"
+            "Zeziria",
+            "Anrīa [C]"
         ]
     },
     "xoteohl": {
@@ -154,7 +162,8 @@
             "Fapan",
             "Ilihuihl",
             "Cuall",
-            "Eloxoxihl"
+            "Eloxoxihl",
+            "Xalixihl"
         ]
     },
     "sêlian": {
@@ -215,7 +224,15 @@
             "Vîlîp [C]",
             "Nanî [C]",
             "Echver",
-            "Elfâr"
+            "Elfâr",
+            "Vrîam [C]",
+            "Îam [C]",
+            "Nû [C]",
+            "Antûn [C]",
+            "Cûm [C]",
+            "Ernoi",
+            "Orver",
+            "Orpeth"
         ],
         "female": [
             "Gênvur",
@@ -280,7 +297,15 @@
             "Vîlîb [C]",
             "Nanîa [C]",
             "Zû [C]",
-            "Zetic"
+            "Zetic",
+            "Brîam [C]",
+            "Îam [C]",
+            "Nû [C]",
+            "Rubîrt [C]",
+            "Antûnyu [C]",
+            "Czaudiu [C]",
+            "Cûmbu [C]",
+            "Nuzînu [C]"
         ],
         "female": [
             "Zaena",
@@ -295,7 +320,10 @@
             "Îl [C]",
             "Noem [C]",
             "Prescîdz [C]",
-            "Dêôr [C]"
+            "Dêôr [C]",
+            "Ez [C]",
+            "Prezcîdz [C]",
+            "Zîr [C]"
         ]
     },
     "prad": {
@@ -394,7 +422,8 @@
             "Faracs [C]",
             "Patias [C]",
             "Afrahan [C]",
-            "Afrahans [C]"
+            "Afrahans [C]",
+            "Ateus [C]"
         ],
         "female": [
             "Arcog",
@@ -448,7 +477,8 @@
             "Hozeag [C]",
             "Jozefg [C]",
             "Farag [C]",
-            "Patiag [C]"
+            "Patiag [C]",
+            "Anria [C]"
         ]
     },
     "felgriftian": {
@@ -483,12 +513,27 @@
             "Ti",
             "Morcos",
             "Crestion",
-            "Ovons"
+            "Ovons",
+            "Rainaldo",
+            "Brion [C]",
+            "Brun [C]",
+            "Alios [C]",
+            "Ali [C]",
+            "Ernas [C]",
+            "Gellarm [C]",
+            "Aedon [C]",
+            "Inyeg [C]",
+            "Llusion [C]",
+            "Sion [C]",
+            "Moesas [C]",
+            "Povl [C]",
+            "Padr [C]"
         ],
         "female": [
             "Ev",
             "Odalin",
-            "Todon"
+            "Todon",
+            "Brige [C]"
         ]
     },
     "llonpenese": {
@@ -600,7 +645,20 @@
             "Dago [C]",
             "Anudurira [C]",
             "Idumiri [C]",
-            "Dagumu [C]"
+            "Dagumu [C]",
+            "Yunedasi [C]",
+            "Puruaki",
+            "Parukado",
+            "Pirorohi",
+            "Pirohi",
+            "Kayi",
+            "Motoyohi",
+            "Nobamitu",
+            "Takarora",
+            "Tumikani",
+            "Tunamitu",
+            "Tohiyahu",
+            "Johiyahu"
         ],
         "female": [
             "Hayaka (爽)",
@@ -608,7 +666,10 @@
             "Aniko (禾子)",
             "Ihago (砂)",
             "Ikuko (生子)",
-            "Kunari (楽)"
+            "Kunari (楽)",
+            "Miri",
+            "Tiyo",
+            "Toyoko"
         ]
     },
     "qasimian": {
@@ -619,7 +680,20 @@
             "Tovuya [C]",
             "Saulu [C]",
             "Ad [C]",
-            "Malaḵīya [C]"
+            "Malaḵīya [C]",
+            "Tāūt [C]",
+            "Varacallāh [C]",
+            "Skisḥāq [C]",
+            "Mvusa [C]",
+            "Mvuḥyitthīr [C]",
+            "Rawvir [C]",
+            "Rayyīr [C]",
+            "Ritā [C]",
+            "Uraymvīr [C]",
+            "Tarrām"
+        ],
+        "female": [
+            "Mvaryim [C]"
         ]
     },
     "trebailian": {
@@ -630,7 +704,16 @@
             "Andre'en",
             "Enri",
             "​​Gregore",
-            "Gu’ede"
+            "Gu’ede",
+            "Éndréy [C]",
+            "Créstien [C]",
+            "Éstien [C]",
+            "Ébèrt [C]",
+            "Ibe [C]",
+            "Pescal [C]",
+            "Rus",
+            "Yan [C]",
+            "Sedoc [C]"
         ]
     },
     "tayapatan": {
@@ -649,7 +732,13 @@
             "Esak [C]",
             "Rion [C]",
             "Toveya [C]",
-            "Asir [C]"
+            "Asir [C]",
+            "Avram [C]",
+            "Ipabra [C]",
+            "Yosip [C]",
+            "Mihey [C]",
+            "Stipan [C]",
+            "Sarok [C]"
         ]
     },
     "dendlovian": {
@@ -661,13 +750,27 @@
             "Toveya [C]",
             "Kornichizh [C]",
             "Saulu [C]",
-            "Malakheya [C]"
+            "Malakheya [C]",
+            "Avram [C]",
+            "Chizlav [C]",
+            "Davuru [C]",
+            "Ipabra [C]",
+            "Ileya [C]",
+            "Ioan [C]",
+            "Iosip [C]",
+            "Mikhey [C]",
+            "Rarozlav [C]",
+            "Saviliy [C]",
+            "Stipan [C]",
+            "Svitõnzlav [C]",
+            "Sarok [C]"
         ]
     },
     "gupran": {
         "type": "simple",
         "male": [
-            "Kuron"
+            "Kuron",
+            "Girkuon"
         ]
     },
     "northern vonian": {
